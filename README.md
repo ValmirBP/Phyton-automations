@@ -62,5 +62,12 @@ You can customize the following parameters in the script:
 
 # Notes
 
-Ensure that your LA Fitness account credentials are kept confidential. Do not share them publicly.
-Use this script responsibly and in accordance with LA Fitness terms of service.
+Please make sure that your LA Fitness account credentials are kept confidential. Could you not share them publicly?
+Use this script responsibly and under LA Fitness's terms of service.
+
+
+
+
+https://github.com/ValmirBP/Phyton-automations/assets/48802923/efea20df-26bc-43ae-95c7-0d1f7406027d
+
+
